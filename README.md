@@ -1,6 +1,6 @@
 This project is based on the Game we often play i.e ROCK-PAPER-SCISSORS.
 
-computer chooses a opiton amoung Rock,paper,scissors by the help of java's Built-in method called MATH.RANDOM() after the user's Turn.
+computer chooses a opiton among Rock,paper,scissors by the help of java's Built-in method called MATH.RANDOM() after the user's Turn.
 
 after 5 games the  final Winner will be the one who has more score.
 
